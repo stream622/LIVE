@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="slv",NAME="HD_audio_4Mb",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://streamer11.xploretv.si//__cl/s:stg_lj_recordings/__c/r/7/f/d/r_assetott0001359_7fd2cb6521a6eed70292a446bca5d099/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/HD_audio_4Mb/manifest.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1328000,RESOLUTION=800x450,CODECS="avc1.42001E,mp4a.40.2",AUDIO="audio1",FRAME-RATE=25
+https://streamer11.xploretv.si//__cl/s:stg_lj_recordings/__c/r/7/f/d/r_assetott0001359_7fd2cb6521a6eed70292a446bca5d099/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/HD_video_1_2Mb/manifest.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=150000,RESOLUTION=800x450,CODECS="avc1.42001E",URI="https://streamer11.xploretv.si//__cl/s:stg_lj_recordings/__c/r/7/f/d/r_assetott0001359_7fd2cb6521a6eed70292a446bca5d099/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/HD_video_1_2Mb/manifest_iframe.m3u8"
+
+
