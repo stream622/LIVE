@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7096000,FRAME-RATE=25.000,RESOLUTION=1920x1080,CODECS="avc1.4D4029,mp4a.40.2"
+https://tmsi-lj-br-r1-3.ug-be.cdn.united.cloud/stream?i=elMKvo9gQBpu_7r4Z-1wzQ&a=GRigTMKa7xPIInAHE8Ws6DqDSq7ASBGG0rHo0n4q7QBgWmw6nkFNP0sixNZNcyeznIj57oKvNzlKEBaSbeVGqSU0ViOsmUgzfDy94OF3FfauGjVFs1HGJJjHceop4HMmbe9HcmMiKjlglVLZtmr4aSQa5J5aRzJ9wYpzQc82a61XEZCBfkkVMjzOkQkcnvaTQJKiNeF7E3cTvnGQ2vacv0q1O8C1N0UWZZEsaPNS5GkmaZCW_grPhJd0qMIuoQuBcSgHB2kahpusZHpns8B3_MenmtWZXojnLHJCaqd1y3C4uDNAC1IbV5m4hCfaxfyHXCpgM_toE-bOa1Pkeb721f_iRLuS2ysF2zgf3TFREEE-MoCJAD1ZnELDQ44VRyJeyenMO7OsxBtrPYliAQIiS4aQUZ_Zesf3K7Hax5KL8mZNbpngBJg5iy2yjxAwRi72&sp=tmsi&u=24w12dii3h0wj4u&session=f5a8eb47-287e-4cee-b203-7a6dec883349&player=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=446000,FRAME-RATE=25.000,RESOLUTION=512x288,CODECS="avc1.42C01E,mp4a.40.2"
+https://tmsi-lj-br-r1-3.ug-be.cdn.united.cloud/stream/playlist/hls/?session=f5a8eb47-287e-4cee-b203-7a6dec883349&stream=hp350&player=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1496000,FRAME-RATE=25.000,RESOLUTION=1024x576,CODECS="avc1.4D4029,mp4a.40.2"
+https://tmsi-lj-br-r1-3.ug-be.cdn.united.cloud/stream/playlist/hls/?session=f5a8eb47-287e-4cee-b203-7a6dec883349&stream=hp1400&player=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3596000,FRAME-RATE=25.000,RESOLUTION=960x1080,CODECS="avc1.4D4029,mp4a.40.2"
+https://tmsi-lj-br-r1-3.ug-be.cdn.united.cloud/stream/playlist/hls/?session=f5a8eb47-287e-4cee-b203-7a6dec883349&stream=hp3500&player=m3u8
