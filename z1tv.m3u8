@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=428000,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=432x240
+http://playback2.akamaized.net/streams/26764475_8122530_lsi7n1gulwgyajisv1o_1/exp=1598728234~acl=%2f*~data=hdntl~hmac=7edaa3fcdc6c2d46040c33fbc0cf23107b11d59c8fc5897321ee89257e344732/media/26764475_8122530_lsi7n1gulwgyajisv1o_1@428000p.m3u8?dw=32&ts=1598641200
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=428000,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=432x240
+http://playback2.akamaized.net/streams/26764475_8122530_lsi7n1gulwgyajisv1o_1/exp=1598728234~acl=%2f*~data=hdntl~hmac=7edaa3fcdc6c2d46040c33fbc0cf23107b11d59c8fc5897321ee89257e344732/media/26764475_8122530_lsi7n1gulwgyajisv1o_1@428000pb.m3u8?dw=32&ts=1598641200
