@@ -1,0 +1,467 @@
+﻿#EXTM3U 
+
+#EXTINF:-1,[COLOR red]**** (: SLO TELEVIZIJA :) ****[/COLOR]
+skip
+
+#EXTINF:-1,[COLOR blue]**** IPTV LIST BY NIKI  ****[/COLOR]
+skip
+
+#EXTINF:-1,[COLOR red]Doniraj za pivo na PayPalu: saloon333@gmail.com [/COLOR]
+skip
+
+
+
+#EXTINF:-1 group-title="HD" tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_1_HD.png",[COLOR gold]SLO 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo1hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="SLO 2 HD" tvg-name="SLO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_2_HD.png",[COLOR gold]SLO 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo2hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="SLO 3" tvg-name="SLO 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_3.png", [COLOR gold]SLO 3[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo3hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Kanal A HD" tvg-name="Kanal A HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Kanal_A_HD.png", [COLOR gold]Kanal A[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/akanalhd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="POP TV HD" tvg-name="POP TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_TV_HD.png", [COLOR gold]POP TV[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/poptvhd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Planet TV HD" tvg-name="Planet TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_TV_HD.png",[COLOR gold]Planet TV[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planettvhd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Planet TV 2 HD" tvg-name="Planet TV 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_2_HD.png",[COLOR gold]Planet 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planet2hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Planet Plus HD" tvg-name="Planet Plus HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_Plus_HD.png",[COLOR gold]Planet Plus[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planetplushd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="TV3 Medias" tvg-name="TV3 Medias" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_3.png", [COLOR gold]TV3 Medias[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tv3hd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Nova 24 TV HD" tvg-name="Nova 24 TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nova_24_TV.png", [COLOR gold]Nova24TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/nova24tv2.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Vaš Kanal" tvg-name="Vaš Kanal" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Vas_kanal.png", [COLOR gold]Vas kanal[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/vaskanal.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX.png", [COLOR blue]FOX[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/foxhd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Life HD" tvg-name="FOX Life HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Life.png", [COLOR blue]FOX Life[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/foxlifehd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Movies.png", [COLOR blue]FOX Movies[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/foxmovieshd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Crime HD" tvg-name="FOX Crime HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Crime.png", [COLOR blue]FOX Crime[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/foxcrimehd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO.png", [COLOR blue]HBO[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hbohd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_2.png", [COLOR blue]HBO 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hbo2hd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_3.png", [COLOR blue]HBO 3[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hbo3hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_1_HD.png",[COLOR blue]CineStar Premiere 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cinestarpr1hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_2_HD.png",[COLOR blue]CineStar Premiere 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cinestarpr2hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="CineStar TV" tvg-name="CineStar TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV.png",[COLOR blue]CineStar TV1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cinestartv2.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="CineStar Comedy" tvg-name="CineStar Comedy" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_Comedy.png",[COLOR blue]CineStar Comedy[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cinestartvcomedy.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Cinemax_HD.png",[COLOR blue]Cinemax[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cinemaxhd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="Cinemax 2 HD" tvg-name="Cinemax 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Cinemax_2_HD.png",[COLOR blue]Cinemax 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cinemax2hd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-ID="AXN" tvg-name="AXN" tvg-logo="https://freeweb.t-2.net/itak/LOGO/AXN.png", [COLOR blue]AXN[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/axn.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="AXN Spin" tvg-name="AXN Spin" tvg-logo="https://freeweb.t-2.net/itak/LOGO/AXN_Spin.png",[COLOR blue]AXN Spin[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/axnspin.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV1000.png", [COLOR blue]TV 1000[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tv10002.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="AMC" tvg-name="AMC" tvg-logo="https://freeweb.t-2.net/itak/LOGO/AMC.png", [COLOR blue]AMC[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/amchd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Kino HD" tvg-name="Kino HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_Kino_HD.png",[COLOR blue]POP Kino[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/kinohd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Brio HD" tvg-name="Brio HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_Brio_HD.png",[COLOR blue]POP Brio[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/briohd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Eurochannel HD" tvg-name="Eurochannel HD" tvg-logo="http://shrani.si/f/1I/8m/4WujEKsn/eurochannel.png",[COLOR blue]Eurochannel[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/eurochannelhd.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="Diva" tvg-name="Diva" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Diva.png", [COLOR blue]Diva[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/diva2.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="Gold TV" tvg-name="Gold TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Sponka_Gold.png", [COLOR blue]Gold TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/goldtv.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="Klasik TV" tvg-name="Klasik TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Klasik_TV.png", [COLOR blue]Klasik TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/klasiktv2.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Šport TV 1 HD" tvg-name="Šport TV 1 HD" tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/sporttvhd.png", [COLOR red]Šport TV 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/s1hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Šport TV 2 HD" tvg-name="Šport TV 2 HD" tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv2hd.png", [COLOR red]Šport TV 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/s2hd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Šport TV 3 HD" tvg-name="Šport TV 3 HD" tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv3hd.png", [COLOR red]Šport TV 3 [/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/s3hd.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="ArenaSport 1" tvg-name="ArenaSport 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Arena_Sport_1.png", [COLOR red]Arena Sport 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/arenasporthd.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="ArenaSport 2" tvg-name="ArenaSport 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Arena_Sport_2.png", [COLOR red]Arena Sport 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/arenasport2hd.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="SPORT1" tvg-name="SPORT1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SPORT1.png",[COLOR red]SPORT1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/dsf2.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Arena Esport" tvg-name="Arena Esport" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Arena_Esport.png",[COLOR red]Arena Esport[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/arenaesporthd.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="Motorvision HD" tvg-name="Motorvision HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Motorvision_TV.png",[COLOR red]Motorvision[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/motorvisionhd.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Eurosport_1.png", [COLOR red]Eurosport 1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/eurosport.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Eurosport_1_HD.png",[COLOR red]Eurosport 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/eurosporthd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Eurosport_2_HD.png",[COLOR red]Eurosport 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport2HD.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="Redbull TV" tvg-name="Redbull TV" tvg-logo="http://shrani.si/f/3t/fO/ET5bfJm/redbull.png", [COLOR red]Redbull TV[/COLOR][COLOR aqua] HD[/COLOR]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="realmadrid" tvg-name="realmadrid" tvg-logo="http://shrani.si/f/3x/aV/46WiMYKY/realmadridtv.jpg", [COLOR red]Real Madrid TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/RealMadridtv.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Extreme_Sports.png", [COLOR red]Extreme sport[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/extreme2.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="Ginx" tvg-name="Ginx" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Ginx_TV.png", [COLOR red]Ginx[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/ginx.m3u8
+#EXTINF:-1 group-title="Športni" tvg-id="l" tvg-name="" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Olympic_Channel.png",[COLOR red]Olympic Channel[/COLOR][COLOR aqua] HD[/COLOR]
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 group-title="Športni" tvg-id="l" tvg-name="" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Olympic_Channel.png",[COLOR red]Olympic Channel[/COLOR][COLOR aqua] UHD[/COLOR]
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Animal_Planet.png", [COLOR lightgreen]Animal Planet[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/animal2.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Animal_Planet_HD.png",[COLOR lightgreen]Animal Planet[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/animalhd.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Discovery_Channel.png", [COLOR lightgreen]Discovery Channel[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/discovery2.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Discovery_Showcase_HD.png",[COLOR lightgreen]Discovery Showcase[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/showcasehd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Discovery_Science_HD.png",[COLOR lightgreen]Discovery Science[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/discscihd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/History_Channel_HD.png",[COLOR lightgreen]History Channel[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/historyhd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Travel_Channel_HD.png",[COLOR lightgreen]Travel Channel[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/travelhd.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/National_Geographic_HD.png",[COLOR lightgreen]National Geographic[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/natgeohd.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/National_Geographic_Wild.png", [COLOR lightgreen]Nat Geo Wild[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/natgeowhd.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Viasat History" tvg-name="Viasat History" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Viasat_History.png", [COLOR lightgreen]Viasat History[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/viasathistory2.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Viasat Explore" tvg-name="Viasat Explore" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Viasat_Explore.png", [COLOR lightgreen]Viasat Explorer[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/explorer2.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://freeweb.t-2.net/itak/LOGO/BBC_First.png",[COLOR lightgreen]BBC First[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/bbcfirsthd.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://freeweb.t-2.net/itak/LOGO/BBC_earth_HD.png",[COLOR lightgreen]BBC Earth[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/bbcearthhd.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Planet Earth" tvg-name="Planet Earth" tvg-logo="Planet_Earth.png",[COLOR lightgreen]Planet Earth[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planetearthhd.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Da_Vinci_Learning.png",[COLOR lightgreen] Da Vinci Learning[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/davincilear2.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TLC.png", [COLOR lightgreen]TLC[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tlc2.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Discovery_ID.png", [COLOR lightgreen] Discovery ID Xtra[/COLOR] 
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/discidx2.m3u8
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CBS_Reality.png",[COLOR lightgreen]CBS Reality[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cbsreality.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Outdoor_Channel_HD.png",[COLOR lightgreen]Outdoor Channel[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/outdoorhd.m3u8
+#EXTINF:-1 group-title="Zabavni" tvg-id="24Kitchen Adria HD" tvg-name="24Kitchen Adria HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/24Kitchen.png", [COLOR lightgreen]24Kitchen[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/24kitchenhdd.m3u8
+#EXTINF:-1 group-title="Zabavni" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Fashion_TV.png", [COLOR chocolate]Fashion TV [/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/fashion.m3u8
+#EXTINF:-1 group-title="Zabavni" tvg-id="Woman HD" tvg-name="Woman HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Woman.png",[COLOR lightgreen]Woman [/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/woman.m3u8
+#EXTINF:-1 group-title="Zabavni" tvg-id="Dr. Fit HD" tvg-name="Dr. Fit HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Dr_Fit.png",[COLOR lightgreen]Dr.Fit[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/drfit.m3u8
+#EXTINF:-1 group-title="Zabavni" tvg-id="E!" tvg-name="E!" tvg-logo="https://freeweb.t-2.net/itak/LOGO/E_Entertaintment.png", [COLOR chocolate]E! Entertaintment[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/e.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="OTO HD" tvg-name="OTO HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_Oto_HD.png",[COLOR aqua]POP OTO[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/popotohd.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nickelodeon.png", [COLOR aqua]Nickelodeon[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/nickelodeon.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Nick JR" tvg-name="Nick JR" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nick_JR.png",[COLOR aqua]Nick JR[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/nickjunior.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-ID="Minimax" tvg-name="Minimax" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Minimax.png", [COLOR aqua]Minimax[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/minimax.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="JimJam" tvg-name="JimJam" tvg-logo="https://freeweb.t-2.net/itak/LOGO/JimJam.png",[COLOR aqua]JimJam[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/jimjam.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Boomerang.png", [COLOR aqua]Boomerang[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/boomerang.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Cartoon_Network.png", [COLOR aqua]Cartoon Network[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cartoon.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Baby_TV.png", [COLOR aqua]BabyTV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/babytv.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Super RTL" tvg-name="Super RTL" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Super_RTL.png",[COLOR aqua]Super RTL[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/superrtl.m3u8
+#EXTINF:-1 group-title="Otroški" tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="http://shrani.si/f/1o/RL/1cCfPY2c/duck-tv.png",[COLOR aqua]DUCK TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/ducktv.m3u8
+#EXTINF:-1 group-title="Duhovni" tvg-id="TV Exodus HD" tvg-name="TV Exodus HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Exodus.png",[COLOR mediumblue]TV Exodus[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/exodus.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="BK TV" tvg-name="BK TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/BK_TV.png",[COLOR gold]BK TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/bktvslo.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="VTV Velenje" tvg-name="VTV Velenje" tvg-logo="https://freeweb.t-2.net/itak/LOGO/VTV_Velenje.png", [COLOR gold]VTV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/vtv.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Net_TV.png", [COLOR gold]NET TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/net.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="RTS Maribor" tvg-name="RTS Maribor" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTS_Maribor.png", [COLOR gold]RTS Maribor[/COLOR]
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Tele M" tvg-name="Tele M" tvg-logo="http://freeweb.t-2.net/itak/LOGO/TV_Maribor_HD.png",[COLOR gold]TV Maribor[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/telemhd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Arena TV" tvg-name="Arena TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Arena_TV.png",[COLOR gold]Arena TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/arenatv.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV Galeja" tvg-name="TV Galeja" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Galeja.png",[COLOR gold]TV Galeja[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/galeja.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Idea TV" tvg-name="Idea TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Kanal_10.png",[COLOR gold]Kanal 10 / Idea TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/ideatv.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="SIP TV" tvg-name="SIP TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SIP_TV.png",[COLOR gold]SIP TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/siptv.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV Slovenj Gradec" tvg-name="TV Slovenj Gradec" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_SG.png",[COLOR gold]TV Slovenj Gradec[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tvsg.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV AS" tvg-name="TV AS" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_AS.png", [COLOR gold]TV AS[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/astv.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV Koper" tvg-name="TV Koper" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Koper.png", [COLOR gold]RTV KOPER[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/koperhd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV Koper" tvg-name="TV Koper" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Koper.png", [COLOR gold]TV Koper-Capodistria[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/koper.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV Celje" tvg-name="TV Celje" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Celje.png", [COLOR gold]TV Celje[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tvcelje.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="GO TV" tvg-name="GO TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/GO_TV.png",[COLOR gold]GO TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/gotv.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TOP TV HD" tvg-name="TOP TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TOP_TV.png",[COLOR gold]TOP TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/toptv.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="Golica TV" tvg-name="Golica TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Golica.png", [COLOR mediumorchid]Golica[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/golica.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="TV Čarli" tvg-name="TV Čarli" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Carli.png", [COLOR mediumorchid]Carli TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/carli.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="TV Veseljak" tvg-name="TV Veseljak" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Veseljak.png", [COLOR mediumorchid]TV Veseljak[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/veseljak.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="TV Petelin" tvg-name="TV Petelin" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Petelin.png", [COLOR mediumorchid]TV Petelin[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/petelin.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="VH1" tvg-name="VH1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/VH1.png", [COLOR mediumorchid]VH1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/vh1.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="https://freeweb.t-2.net/itak/LOGO/VH1_Classic.png", [COLOR mediumorchid]VH1 CLASSIC[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/vh1cla.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="MTV Adria" tvg-name="MTV Adria" tvg-logo="https://freeweb.t-2.net/itak/LOGO/MTV.png", [COLOR mediumorchid]MTV Adria[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mtv.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="MTV" tvg-name="MTV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/MTV.png", [COLOR mediumorchid]MTV[/COLOR]
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="HD" tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/MTV_Live_HD.png",[COLOR mediumorchid]MTV Live[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mtvlive.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://freeweb.t-2.net/itak/LOGO/MTV_Hits.png",[COLOR mediumorchid]MTV Hits[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mtvhits.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="https://freeweb.t-2.net/itak/LOGO/MTV_Dance.png",[COLOR mediumorchid]MTV Dance[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mtvdance.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="MTV Rocks" tvg-name="MTV Rocks" tvg-logo="https://freeweb.t-2.net/itak/LOGO/MTV_Rocks.png",[COLOR mediumorchid]MTV Rocks[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mtvrocks.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="Jugoton TV" tvg-name="Jugoton TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Jugoton.png",[COLOR mediumorchid]Jugoton TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/jugotontv.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="DM SAT TV" tvg-name="DM SAT TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/DM_SAT_TV.png", [COLOR mediumorchid]DM SAT[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/dmsat.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Mezzo.png", [COLOR mediumorchid]Mezzo[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mezzo.m3u8
+#EXTINF:-1 group-title="HD" tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="Mezzo_Live_HD.png",[COLOR mediumorchid]Mezzo Live[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mezzolivehd.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="CMC" tvg-name="CMC" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CMC.png", [COLOR mediumorchid]CMC[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cmc.m3u8
+#EXTINF:-1 group-title="Glasbeni" tvg-id="Jasmin TV" tvg-name="Jasmin TV" tvg-logo="http://shrani.si/f/3R/5M/2hOydXHz/jasmin-tv.png", [COLOR mediumorchid]Jasmin TV[/COLOR]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="N1 Srbija" tvg-name="N1 Srbija" tvg-logo="https://freeweb.t-2.net/itak/LOGO/N1_Srbija.png",[COLOR sandybrown]N1 Srbija[/COLOR]
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="RT Crna gora" tvg-name="RT Crna gora" tvg-logo="http://freeweb.t-2.net/itak/LOGO/RTCG_Sat.png",[COLOR sandybrown]RT Crna gora[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtcg.m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="OBN" tvg-name="OBN" tvg-logo="http://freeweb.t-2.net/itak/LOGO/OBN.png",[COLOR sandybrown]OBN[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/obn.m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="N1 BiH" tvg-name="N1 BiH" tvg-logo="https://freeweb.t-2.net/itak/LOGO/N1_BiH.png",[COLOR sandybrown]N1 BiH[/COLOR]
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="Al Jazeera Balkans" tvg-name="Al Jazeera Balkans" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Al_Jazeera.png",[COLOR sandybrown]Al Jazeera Balkans[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/aljazeera.m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="Hayat TV BiH" tvg-name="Hayat TV BiH" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Hayat.png",[COLOR sandybrown]Hayat[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hayat.m3u8
+#EXTINF:-1 group-title="Balkanski" tvg-id="RTK" tvg-name="RTK" tvg-logo="http://freeweb.t-2.net/itak/LOGO/RTK_1.png",[COLOR sandybrown]RTK 1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtk.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CNN_International.png", [COLOR tan]CNN International[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/cnn.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://freeweb.t-2.net/itak/LOGO/BBC_World.png",[COLOR tan]BBC World News[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/bbcworld.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="SAT 1" tvg-name="SAT 1" tvg-logo="http://freeweb.t-2.net/itak/LOGO/SAT1.png",[COLOR tan]SAT.1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/sat1.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="Kabel 1" tvg-name="Kabel 1" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Kabel_1.png",[COLOR tan]Kabel 1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/kabel1.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="RTL" tvg-name="RTL" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL.png", [COLOR tan]RTL[/COLOR] 
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtl.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="RTL 2" tvg-name="RTL 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_2.png", [COLOR tan]RTL 2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtl2.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/ORF_1.png",[COLOR tan]ORF1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/orf1.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="http://freeweb.t-2.net/itak/LOGO/ORF_2.png",[COLOR tan]ORF2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/orf2.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="http://freeweb.t-2.net/itak/LOGO/ZDF.png",[COLOR tan]ZDF[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/zdf.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://freeweb.t-2.net/itak/LOGO/DW.png",[COLOR tan]Deutsche Welle[/COLOR]
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="NTV" tvg-name="NTV" tvg-logo="http://freeweb.t-2.net/itak/LOGO/N_TV.png",[COLOR tan]N-TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/ntv.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="VOX" tvg-name="VOX" tvg-logo="http://freeweb.t-2.net/itak/LOGO/VOX.png",[COLOR tan]VOX[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/vox.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="ARD" tvg-name="ARD" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Das_Erste.png",[COLOR tan]Das Erste (ARD)[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/ard.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="Pro 7" tvg-name="Pro 7" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Pro_7.png",[COLOR tan]Pro 7[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/pro7.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="3sat" tvg-name="3sat" tvg-logo="http://freeweb.t-2.net/itak/LOGO/3SAT.png",[COLOR tan]3SAT[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/3sat.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://freeweb.t-2.net/itak/LOGO/France_24_English.png",[COLOR tan]France 24 English[/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="RAI 1" tvg-name="RAI 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RAI_1.png",[COLOR tan]RAI 1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rai1.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="RAI 2" tvg-name="RAI 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RAI_2.png",[COLOR tan]RAI 2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rai2.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="RAI 3" tvg-name="RAI 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RAI_3.png",[COLOR tan]RAI 3[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rai3.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="Mediaset Italia" tvg-name="Mediaset Italia" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Mediaset_Italia.png",[COLOR tan]Mediaset Italia[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/mediaset.m3u8
+#EXTINF:-1 group-title="Tuji" tvg-id="Duna World" tvg-name="Duna World" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Duna_World.png",[COLOR tan]Duna World[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/dunatv.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="Hustler TV" tvg-name="Hustler TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Hustler_TV.png", [COLOR magenta]Hustler[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxhustlertv.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="Hustler TV HD" tvg-name="Hustler TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Hustler_TV_HD.png",[COLOR magenta]Hustler TV[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxhustlerhd.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="Brazzers" tvg-name="Brazzers" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Brazzers_TV_Europe.png",[COLOR magenta]Brazzers TV Europe[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxbrazzers.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="realitykings" tvg-name="realitykings" tvg-logo="http://shrani.si/f/v/wo/3bxIvSdm/realitykings.png",[COLOR magenta]Realitykings[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxrealitykings.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="Dorcel HD" tvg-name="Dorcel_TV" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Dorcel_HD.png",[COLOR magenta]Dorcel[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxdorcel.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="Dusk" tvg-name="Dusk" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Dusk.png",[COLOR magenta]Dusk TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxdusktv.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="Private" tvg-name="Private" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Private.png",[COLOR magenta]Private[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxprivate.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="PlayboyTV" tvg-name="PlayboyTV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Playboy_TV.png",[COLOR magenta]Playboy TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxplayboytv.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-id="JasminTV" tvg-name="JasminTV" tvg-logo="http://shrani.si/f/B/yx/3QDRotVd/jasmin-tv-channel.jpg",[COLOR magenta]Jasmin TV[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxjasminchannelhd.m3u8
+
+
+
+#EXTINF:-1,[COLOR red]===== HRVATSKI =====[/COLOR]
+skip
+
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_1.png", [COLOR sandybrown]HRT 1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hrt1v2.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_1.png", [COLOR sandybrown]HRT 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt1hd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_1.png", [COLOR sandybrown]HRT 1[/COLOR][COLOR aqua] HD[/COLOR]
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_2.png", [COLOR sandybrown]HRT 2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hrt2v2.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_2.png", [COLOR sandybrown]HRT 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt2hd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_2.png", [COLOR sandybrown]HRT 2[/COLOR][COLOR aqua] HD[/COLOR]
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_3.png", [COLOR sandybrown]HRT 3[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt3hd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_3.png", [COLOR sandybrown]HRT 3[/COLOR][COLOR aqua] HD[/COLOR]
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_4.png",[COLOR sandybrown] HRT 4[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt4hd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_4.png",[COLOR sandybrown] HRT 4[/COLOR][COLOR aqua] HD[/COLOR]
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://shrani.si/f/3O/jS/1kd76K3z/rtl-hr.png", [COLOR sandybrown]RTL (HR)[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtlhrvatska.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://shrani.si/f/3O/jS/1kd76K3z/rtl-hr.png", [COLOR sandybrown]RTL (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlhrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://shrani.si/f/3O/jS/1kd76K3z/rtl-hr.png", [COLOR sandybrown]RTL (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL 2 Hrvaška" tvg-name="RTL 2 Hrvaška" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL2.png", [COLOR sandybrown]RTL 2 (HR)[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtlhrvatska2.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL 2 Hrvaška" tvg-name="RTL 2 Hrvaška" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL2.png", [COLOR sandybrown]RTL 2 (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtl2hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="N1 Hrvaška" tvg-name="N1 Hrvaška" tvg-logo="https://freeweb.t-2.net/itak/LOGO/N1_Hrvaska.png",[COLOR sandybrown]N1 (HR)[/COLOR]
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Kockica.png", [COLOR sandybrown]RTL Kockica (HR)[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlkockicahd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Kockica.png", [COLOR sandybrown]RTL Kockica (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4980
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Living.png", [COLOR sandybrown]RTL Living (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtllivinghd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Living.png", [COLOR sandybrown]RTL Living (HR)[/COLOR]
+http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4982
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTLCrime" tvg-name="RTL Crime" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/3V/OU/1l8Uhm68/rtlcrimelogo.png",[COLOR sandybrown] RTL Crime (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlcrimehd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTLCrime" tvg-name="RTL Crime" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/3V/OU/1l8Uhm68/rtlcrimelogo.png",[COLOR sandybrown] RTL Crime (HR)[/COLOR]
+http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4983
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/2Z/13T/4Kw9ZnUQ/rtlpassionlogo.png", [COLOR sandybrown]RTL Passion (HR)[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlpassionhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="RTLPassion" tvg-name="RTL Passion" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/2Z/13T/4Kw9ZnUQ/rtlpassionlogo.png", [COLOR sandybrown]RTL Passion (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4981
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Nova TV" tvg-name="Nova TV" tvg-logo="http://shrani.si/f/2Y/c1/67VAH86/1/nova-tv.jpg", [COLOR sandybrown]Nova TV (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/novatvhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Nova TV" tvg-name="Nova TV" tvg-logo="http://shrani.si/f/2Y/c1/67VAH86/1/nova-tv.jpg", [COLOR sandybrown]Nova TV (HR)[/COLOR][COLOR aqua] HD[/COLOR]
+http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/5027
+#EXTINF:-1 group-title="Hrvaški" tvg-id="DOMATV" tvg-name="Doma TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Doma_TV.png", [COLOR sandybrown]Doma TV[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/domatvhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="DOMATV" tvg-name="Doma TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Doma_TV.png", [COLOR sandybrown]Doma TV[/COLOR]
+http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/23193
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO.png", [COLOR sandybrown]HBO[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo1hr.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_2.png", [COLOR sandybrown]HBO 2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo2hr.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_3.png", [COLOR sandybrown]HBO 3[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo3hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_1_HD.png",[COLOR sandybrown]CineStar Premiere 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CinestarPremiere1hd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_2_HD.png",[COLOR sandybrown]CineStar Premiere 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CinestarPremiere2hd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="CineStar TV" tvg-name="CineStar TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV.png",[COLOR sandybrown]CineStar TV1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/cinestarhrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Cinemax_HD.png",[COLOR sandybrown]Cinemax[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/cinemaxhrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Cinemax 2 HD" tvg-name="Cinemax 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Cinemax_2_HD.png",[COLOR sandybrown]Cinemax 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/cinemax2hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Movies.png", [COLOR sandybrown]FOX Movies[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/Foxmovies.m3u8
+#EXTINF:-1 group-title="Hrvaški" audio-track="eng" tvg-id="SciFi" tvg-name="SciFi" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SciFi.png",[COLOR sandybrown]SciFi[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/scifihrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Crime and Investigation Network" tvg-name="Crime and Investigation Network" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Crime_Investigation.png",[COLOR sandybrown]Crime & Investigation[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CrimeInvestigationNetworkhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="" ,[COLOR sandybrown]Planet Sport 1(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/PlanetSport1HD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="" ,[COLOR sandybrown]Planet Sport 2(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/PlanetSport2HD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/F/xk/1yRRXgCq/arenasport1logo.png" ,[COLOR sandybrown]Arena Sport 1(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/arenasport1hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/2Q/R2/1nL4z4RQ/arenasport2logo.png" ,[COLOR sandybrown]Arena Sport 2(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/arenasport2hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/1M/cD/4i9So6iD/arenasport3logo.png" ,[COLOR sandybrown]Arena Sport 3(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/arenasport3hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/2W/B/jRm48gJ/arenasport4logo.png" ,[COLOR sandybrown]Arena Sport 4(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/arenasport4hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/1y/FM/2LZmZrez/arenasport5logo.png",[COLOR sandybrown]Arena Sport 5(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/arenasport5hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/24/O6/3qvGWrsS/arena-sport-6-hr.png",[COLOR sandybrown]Arena Sport 6(HR)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/arenasport6hrhd.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/F/xk/1yRRXgCq/arenasport1logo.png" ,[COLOR sandybrown]Arena Sport 1(RS)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/ArenaSport1SRHD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/2Q/R2/1nL4z4RQ/arenasport2logo.png" ,[COLOR sandybrown]Arena Sport 2(RS)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/ArenaSport2SRHD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/1M/cD/4i9So6iD/arenasport3logo.png" ,[COLOR sandybrown]Arena Sport 3(RS)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/ArenaSport3SRHD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/2W/B/jRm48gJ/arenasport4logo.png" ,[COLOR sandybrown]Arena Sport 4(RS)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/ArenaSport4SRHD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/1y/FM/2LZmZrez/arenasport5logo.png",[COLOR sandybrown]Arena Sport 5(RS)[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/ArenaSport5SRHD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Eurosport_1_HD.png",[COLOR red]Eurosport 1[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport1HD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Eurosport_2_HD.png",[COLOR red]Eurosport 2[/COLOR][COLOR aqua] HD[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport2HD.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Z1 Televizija" tvg-name="Z1 Televizija" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Z1_televizija.png",[COLOR sandybrown]Z1 televizija[/COLOR]
+https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Osjecka TV" tvg-name="Osjecka TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Osjecka_TV.png", [COLOR sandybrown]Osjecka TV (HR)[/COLOR] 
+https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/210373418.secure.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Slavonska TV" tvg-name="Slavonska TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/1j/tq/3sJ0jV0C/slavonska.jpg",[COLOR sandybrown]Slavonska Tv (HR)[/COLOR]
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Trend TV" tvg-name="Trend TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Trend_TV.png", [COLOR sandybrown]Trend TV (karlovac) (HR)[/COLOR] 
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-id="Banovina TV" tvg-name="Banovina TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/3i/mz/dFDMn4b/banovina.png", [COLOR sandybrown]Banovina (HR)[/COLOR] 
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/C/l6/4q9do8eb/televizija-hrvatske-dija.png", [COLOR sandybrown]Televizija Hrvatske Dijaspore (HR)[/COLOR] 
+http://92.204.53.152:8080/crotv/televizijahrvatskedijaspore/index.m3u8
+#EXTINF:0,group-title="Hrvaški" tvg-id="NB Comedy Channel" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="NB Comedy Channel" tvg-logo="https://pbs.twimg.com/profile_images/848073611651022849/1iVBmJoe_400x400.jpg",[COLOR sandybrown]NB Comedy Channel[/COLOR]
+http://195.29.70.82/PLTV/88888888/224/3221226407/index.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="MAXtv" tvg-name="MAXtv" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/promo.png", [COLOR sandybrown]MAXtv Promo Kanal (HR)[/COLOR] 
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/maxpromo.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+
+
+
+
+
+
+
+
+
+
