@@ -1,4 +1,4 @@
-﻿#EXTM3U 
+#EXTM3U 
 
 #EXTINF:-1,[COLOR red]**** (: SLO TELEVIZIJA :) ****[/COLOR]
 skip
@@ -11,22 +11,40 @@ skip
 
 
 
+#EXTINF:-1 group-title="Slovenski" tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_1.png", [COLOR gold]SLO 1[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo1.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_1_HD.png",[COLOR gold]SLO 1[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo1hd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="SLO 2 HD"tvg-name="SLO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_2.png", [COLOR gold]SLO 2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo2.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="SLO 2 HD" tvg-name="SLO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_2_HD.png",[COLOR gold]SLO 2[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo2hd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="SLO 3" tvg-name="SLO 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_3.png", [COLOR gold]SLO 3[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo3.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="SLO 3" tvg-name="SLO 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_3.png", [COLOR gold]SLO 3[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/slo3hd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Kanal A HD" tvg-name="Kanal A HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Kanal_A.png", [COLOR gold]Kanal A[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/akanal.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="Kanal A HD" tvg-name="Kanal A HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Kanal_A_HD.png", [COLOR gold]Kanal A[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/akanalhd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="POP TV HD" tvg-name="POP TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_TV.png", [COLOR gold]POP TV[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/poptv.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="POP TV HD" tvg-name="POP TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_TV_HD.png", [COLOR gold]POP TV[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/poptvhd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Planet TV HD" tvg-name="Planet TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_TV.png", [COLOR gold]Planet TV (SLO)[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planettv.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="Planet TV HD" tvg-name="Planet TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_TV_HD.png",[COLOR gold]Planet TV[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planettvhd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Planet TV 2 HD" tvg-name="Planet TV 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_2.png",[COLOR gold]Planet 2[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planet2.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="Planet TV 2 HD" tvg-name="Planet TV 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_2_HD.png",[COLOR gold]Planet 2[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planet2hd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Planet Plus HD" tvg-name="Planet Plus HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_Plus.png",[COLOR gold]Planet Plus[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planetplus.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="Planet Plus HD" tvg-name="Planet Plus HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_Plus_HD.png",[COLOR gold]Planet Plus[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/planetplushd.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV3 Medias" tvg-name="TV3 Medias" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_3.png", [COLOR gold]TV3 Medias[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tv3.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="TV3 Medias" tvg-name="TV3 Medias" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_3.png", [COLOR gold]TV3 Medias[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/tv3hd.m3u8
 #EXTINF:-1 group-title="Slovenski" tvg-id="Nova 24 TV HD" tvg-name="Nova 24 TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nova_24_TV.png", [COLOR gold]Nova24TV[/COLOR]
