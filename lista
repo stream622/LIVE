@@ -329,10 +329,8 @@ https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxhustlertv.m3u8
 #EXTINF:-1 group-title="Za odrasle" tvg-id="Hustler TV HD" tvg-name="Hustler TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Hustler_TV_HD.png",[COLOR magenta]Hustler TV[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxhustlerhd.m3u8
-#EXTINF:-1 group-title="Za odrasle" tvg-id="Brazzers" tvg-name="Brazzers" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Brazzers_TV_Europe.png",[COLOR magenta]Brazzers TV Europe[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxbrazzers.m3u8
-#EXTINF:-1 group-title="Za odrasle" tvg-id="realitykings" tvg-name="realitykings" tvg-logo="http://shrani.si/f/v/wo/3bxIvSdm/realitykings.png",[COLOR magenta]Realitykings[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxrealitykings.m3u8
+#EXTINF:-1 group-title="Za odrasle" tvg-logo="http://shrani.si/f/v/wo/3bxIvSdm/realityk.png",[COLOR magenta]Realityk[/COLOR]
+https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxrealityk.m3u8
 #EXTINF:-1 group-title="Za odrasle" tvg-id="Dorcel HD" tvg-name="Dorcel_TV" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Dorcel_HD.png",[COLOR magenta]Dorcel[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/xxxdorcel.m3u8
 #EXTINF:-1 group-title="Za odrasle" tvg-id="Dusk" tvg-name="Dusk" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Dusk.png",[COLOR magenta]Dusk TV[/COLOR]
@@ -352,67 +350,61 @@ skip
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_1.png", [COLOR sandybrown]HRT 1[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hrt1v2.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_1.png", [COLOR sandybrown]HRT 1[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt1hd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt1hd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_1.png", [COLOR sandybrown]HRT 1[/COLOR][COLOR aqua] HD[/COLOR]
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_2.png", [COLOR sandybrown]HRT 2[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/hrt2v2.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_2.png", [COLOR sandybrown]HRT 2[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt2hd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt2hd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_2.png", [COLOR sandybrown]HRT 2[/COLOR][COLOR aqua] HD[/COLOR]
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_3.png", [COLOR sandybrown]HRT 3[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt3hd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt3hd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_3.png", [COLOR sandybrown]HRT 3[/COLOR][COLOR aqua] HD[/COLOR]
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_4.png",[COLOR sandybrown] HRT 4[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt4hd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hrt4hd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HRT_4.png",[COLOR sandybrown] HRT 4[/COLOR][COLOR aqua] HD[/COLOR]
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://shrani.si/f/3O/jS/1kd76K3z/rtl-hr.png", [COLOR sandybrown]RTL (HR)[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtlhrvatska.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://shrani.si/f/3O/jS/1kd76K3z/rtl-hr.png", [COLOR sandybrown]RTL (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlhrhd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlhrhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://shrani.si/f/3O/jS/1kd76K3z/rtl-hr.png", [COLOR sandybrown]RTL (HR)[/COLOR][COLOR aqua] HD[/COLOR]
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL 2 Hrvaška" tvg-name="RTL 2 Hrvaška" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL2.png", [COLOR sandybrown]RTL 2 (HR)[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/g5Hk67dsamn45dsalk792sdcujdae4d4d6d2/rtlhrvatska2.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL 2 Hrvaška" tvg-name="RTL 2 Hrvaška" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL2.png", [COLOR sandybrown]RTL 2 (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtl2hrhd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtl2hrhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="N1 Hrvaška" tvg-name="N1 Hrvaška" tvg-logo="https://freeweb.t-2.net/itak/LOGO/N1_Hrvaska.png",[COLOR sandybrown]N1 (HR)[/COLOR]
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Kockica.png", [COLOR sandybrown]RTL Kockica (HR)[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlkockicahd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlkockicahd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Kockica.png", [COLOR sandybrown]RTL Kockica (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4980
-#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Living.png", [COLOR sandybrown]RTL Living (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtllivinghd.m3u8
+http://ipflix.click:8080/Michelle/a9q40333a7/4980
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTL_Living.png", [COLOR sandybrown]RTL Living (HR)[/COLOR]
-http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4982
+http://ipflix.click:8080/Michelle/a9q40333a7/4982
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTLCrime" tvg-name="RTL Crime" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/3V/OU/1l8Uhm68/rtlcrimelogo.png",[COLOR sandybrown] RTL Crime (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlcrimehd.m3u8
-#EXTINF:-1 group-title="Hrvaški" tvg-id="RTLCrime" tvg-name="RTL Crime" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/3V/OU/1l8Uhm68/rtlcrimelogo.png",[COLOR sandybrown] RTL Crime (HR)[/COLOR]
-http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4983
-#EXTINF:-1 group-title="Hrvaški" tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/2Z/13T/4Kw9ZnUQ/rtlpassionlogo.png", [COLOR sandybrown]RTL Passion (HR)[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/rtlpassionhd.m3u8
+http://ipflix.click:8080/Michelle/a9q40333a7/4983
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTLPassion" tvg-name="RTL Passion" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://shrani.si/f/2Z/13T/4Kw9ZnUQ/rtlpassionlogo.png", [COLOR sandybrown]RTL Passion (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/4981
+http://ipflix.click:8080/Michelle/a9q40333a7/4981
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Nova TV" tvg-name="Nova TV" tvg-logo="http://shrani.si/f/2Y/c1/67VAH86/1/nova-tv.jpg", [COLOR sandybrown]Nova TV (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/novatvhd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/novatvhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Nova TV" tvg-name="Nova TV" tvg-logo="http://shrani.si/f/2Y/c1/67VAH86/1/nova-tv.jpg", [COLOR sandybrown]Nova TV (HR)[/COLOR][COLOR aqua] HD[/COLOR]
-http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/5027
+http://ipflix.click:8080/Michelle/a9q40333a7/5027
 #EXTINF:-1 group-title="Hrvaški" tvg-id="DOMATV" tvg-name="Doma TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Doma_TV.png", [COLOR sandybrown]Doma TV[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/domatvhd.m3u8
-#EXTINF:-1 group-title="Hrvaški" tvg-id="DOMATV" tvg-name="Doma TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Doma_TV.png", [COLOR sandybrown]Doma TV[/COLOR]
-http://mytv.fun:8080/wlf9n0wiw6/yy63bmq79d/23193
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/domatvhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrvaški" tvg-id="DOMATV" tvg-name="Doma TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Doma_TV.png", [COLOR sandybrown]Doma TV[/COLOR][COLOR aqua] HD[/COLOR]
+http://ipflix.click:8080/Michelle/a9q40333a7/23193
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO.png", [COLOR sandybrown]HBO[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo1hr.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo1hr.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_2.png", [COLOR sandybrown]HBO 2[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo2hr.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo2hr.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_3.png", [COLOR sandybrown]HBO 3[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo3hrhd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/hbo3hrhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_1_HD.png",[COLOR sandybrown]CineStar Premiere 1[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CinestarPremiere1hd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CinestarPremiere1hd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_2_HD.png",[COLOR sandybrown]CineStar Premiere 2[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CinestarPremiere2hd.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="CineStar TV" tvg-name="CineStar TV" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV.png",[COLOR sandybrown]CineStar TV1[/COLOR][COLOR aqua] HD[/COLOR]
@@ -422,11 +414,11 @@ https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh5
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Cinemax 2 HD" tvg-name="Cinemax 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Cinemax_2_HD.png",[COLOR sandybrown]Cinemax 2[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/cinemax2hrhd.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Movies.png", [COLOR sandybrown]FOX Movies[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/Foxmovies.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/Foxmovies.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" audio-track="eng" tvg-id="SciFi" tvg-name="SciFi" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SciFi.png",[COLOR sandybrown]SciFi[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/scifihrhd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/scifihrhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Crime and Investigation Network" tvg-name="Crime and Investigation Network" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Crime_Investigation.png",[COLOR sandybrown]Crime & Investigation[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CrimeInvestigationNetworkhd.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/CrimeInvestigationNetworkhd.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-logo="" ,[COLOR sandybrown]Planet Sport 1(HR)[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/PlanetSport1HD.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-logo="" ,[COLOR sandybrown]Planet Sport 2(HR)[/COLOR][COLOR aqua] HD[/COLOR]
@@ -454,9 +446,9 @@ https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh5
 #EXTINF:-1 group-title="Hrvaški" tvg-logo="http://shrani.si/f/1y/FM/2LZmZrez/arenasport5logo.png",[COLOR sandybrown]Arena Sport 5(RS)[/COLOR][COLOR aqua] HD[/COLOR]
 https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/ArenaSport5SRHD.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Eurosport_1_HD.png",[COLOR red]Eurosport 1[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport1HD.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport1HD.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Eurosport_2_HD.png",[COLOR red]Eurosport 2[/COLOR][COLOR aqua] HD[/COLOR]
-https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport2HD.m3u8
+https://raw.githubusercontent.com/stream622/LIVE/hr76gdsaop62ct5s4v4gg09vs5tffh54sddkjhggff4esgfrdsjudh65frkj76hr/EuroSport2HD.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Z1 Televizija" tvg-name="Z1 Televizija" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Z1_televizija.png",[COLOR sandybrown]Z1 televizija[/COLOR]
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Osjecka TV" tvg-name="Osjecka TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Osjecka_TV.png", [COLOR sandybrown]Osjecka TV (HR)[/COLOR] 
