@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/slo1hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 1
+https://30-rtvslo-tv-slo1-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/slo2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 2
+https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 3
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/slo3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 3
+https://15-rtvslo-tv-slo3-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0 tvg-id="TVKoper.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV KOPER
+https://26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0 tvg-id="TeleM.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV MARIBOR
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, RTV MMC
+https://28-rtvslo-tv-mmc-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/akanalhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="PopTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Pop TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/poptvhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="PopTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Pop TV 720p
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/poptv720p.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/planettvhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="TV3Medias.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV3 Medias
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/tv3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP BRIO
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/briohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="FOX.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/foxhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="FOXLife.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Life
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/foxlifehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="FOXCrime.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Crime
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/foxcrimehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="CineStarTVv2.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cinestartv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cinestartvcomedy2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Cinemax1.svn", CINEMAX
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cinemaxhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Cinemax2.svn", CINEMAX 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cinemax2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO.svn", HBO
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hbohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO2.svn", HBO 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hbo2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO3hd.svn", HBO 3
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hbo3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="TV1000.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV 1000
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/tv10002.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="AMC.svn" group-title="Channels" User-Agent="AppleCoreMedia,AMC
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/amchd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/foxmovieshd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="CinestarPremiere1.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cinestarpr1hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="CinestarPremiere2.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cinestarpr2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="POPKino.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP KINO
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/kinohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Diva.svn" group-title="Channels" User-Agent="AppleCoreMedia,DIVA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/diva2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="KlasikTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,KLASIK TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/klasiktv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Planet2.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET TV 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/planet2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="PlanetPLUS.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET PLUS
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/planetplushd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="GoldTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Gold TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/goldtv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="NovaTV24.svn" group-title="Channels" User-Agent="AppleCoreMedia,NOVA 24 TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/nova24tv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="AXN.svn" group-title="Channels" User-Agent="AppleCoreMedia,AXN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/axn2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="AXNSpin.svn" group-title="Channels" User-Agent="AppleCoreMedia,AXN SPIN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/axnspin2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="BBCFirst.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC FIRST
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/bbcfirsthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="EPICDramaHD.svn" group-title="Channels" User-Agent="AppleCoreMedia,EPIC DRAMA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/epicdrama2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Eurochannel.rs" group-title="Channels" User-Agent="AppleCoreMedia,EUROCHANNEL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/eurochannelhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="BBCEarth.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC EARTH
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/bbcearthhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="PlanetEARTH.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EARTH
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/planetearthhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="NGC.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/natgeohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="NGCwild.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC WILD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/natgeowhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="AnimalPlanet.svn" group-title="Channels" User-Agent="AppleCoreMedia,ANIMAL PLANET
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/animal2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="AnimalPlanet.svn" group-title="Channels" User-Agent="AppleCoreMedia,ANIMAL PLANET HD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/animalhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Discovery.svn" group-title="Channels" User-Agent="AppleCoreMedia,DISCOVERY CHANNEL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/discovery2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="DiscoveryHD.svn" group-title="Channels" User-Agent="AppleCoreMedia,DISCOVERY SHOWCASE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/showcasehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="DiscoveryIDXtra.svn" group-title="Channels" User-Agent="AppleCoreMedia,Discovery ID Xtra
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/discidx2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="TravelChannel.svn" group-title="Channels" User-Agent="AppleCoreMedia,TRAVEL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/travelhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="DiscoveryScience.svn" group-title="Channels" User-Agent="AppleCoreMedia,DISCOVERY SCIENCE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/discscihd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HistoryChn.svn" group-title="Channels" User-Agent="AppleCoreMedia,HISTORY
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/historyhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="ViasatHistory.svn" group-title="Channels" User-Agent="AppleCoreMedia,VIASAT HISTORY
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/viasathistory2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="ViasatExplorer.svn" group-title="Channels" User-Agent="AppleCoreMedia,VIASAT EXPLORE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/explorer2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="DaVinciLearning.svn" group-title="Channels" User-Agent="AppleCoreMedia,DAVINCI LEARNING
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/davincilear2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="24Kitchen.svn" group-title="Channels" User-Agent="AppleCoreMedia,24 KITCHEN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/24kitchenhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="TLC.svn" group-title="Channels" User-Agent="AppleCoreMedia,TLC
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/tlc2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CBSreality.svn",CBS REALITY
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cbsreality2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Woman.svn",WOMAN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/woman2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="DrFit.svn",DRFIT
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/drfit2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SportTV1.svn",SPORT TV 1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/s1hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SportTV2.svn",SPORT TV 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/s2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SportTV3.svn",SPORT TV 3
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/s3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ArenaSport1.rs",ARENASPORT 1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/arenasporthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ArenaSport2.rs",ARENASPORT 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/arenasport2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Eurosport1.svn",EUROSPORT
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/eurosporthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,EUROSPORT 2
+http://195.206.253.157:8001/eurosport2hd
+#EXTINF:0, tvg-id="Sport1.svn",SPORT1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/dsf2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Extreme.svn",EXTREME
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/extreme2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Outdoor.svn",OUTDOOR CHANNEL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/outdoorhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Motorvision.svn",MOTORVISION
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/motorvisionhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTSMaribor.svn",RTS
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rts.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TeleM.svn",TELE M
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/telem.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TVKoper.svn",KOPER
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/koper.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VASKanal.svn",VAŠ KANAL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/vaskanal.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TVAs.svn",AS TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/astv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VTVVelenje.svn",VTV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/vtv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TVCelje.svn",TV CELJE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/tvcelje.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SipTV.svn",SIP TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/siptv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TVIdea.svn",IDEA TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/ideatv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="NETtv.svn",NET TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/net.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ArenaTV.svn",ARENA TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/arenatv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",GALEJA TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/galeja.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BKTV.svn",BK TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/bktvslo.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="GO TV",GO TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/gotv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",TV SG
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/tvsg.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ExodusTV.svn",EXODUS TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/exodus.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HRT1.svn",HRT1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hrt1v2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HRT2.svn",HRT2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hrt2v2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HRT3.svn",HRT3
+http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:0, tvg-id="HRT4.svn",HRT4
+http://195.29.70.89/PLTV/88888888/224/3221226281/03.m3u8
+#EXTINF:0, tvg-id="RTLtelevizija.svn",RTLHRVATSKA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtlhrvatska.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTL2televizija.svn",RTLHRVATSKA 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtlhrvatska2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTS1Srbija.svn",RT SRBIJE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtsrbije.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTCrnaGora.svn",RTCG
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtcg.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTK.al",RTK
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtk.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HayatTV.svn",HAYAT
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hayat.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="OBN.svn",OBN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/obn.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ORF1.svn",ORF1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/orf1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ORF2.svn",ORF2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/orf2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ARD.svn",ARD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/ard.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ZDF.svn",ZDF
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/zdf.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="3SAT.svn",3SAT
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/3sat.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RAI1.svn",RAI 1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rai1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RAI2.svn",RAI 2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rai2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RAI3.svn",RAI 3
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rai3.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="DunaTV.svn",DUNA TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/dunatv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TopTV.svn",TOP TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/toptv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BBCWorld.svn",BBC WORLD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/bbcworld.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CNNInternational.svn",CNN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cnn.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Bloomberg.svn",BLOOMBERG
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/bloomberg.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV5Monde.svn",TV5MONDE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/tv5monde.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="France24.svn",FRANCE24
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/france24.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ntv.de",NTV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/ntv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="AlJazeeraBalkans.svn",AL JAZEERA BALKANS
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/aljazeera.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTLNEMCIJA.svn",RTL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtl.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTL2NEMCIJA.svn",RTL2
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/rtl2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Pro7.svn",PRO7
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/pro7.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Kabel1.svn",KABEL1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/kabel1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SAT1.svn",SAT1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/sat1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VOX.svn",VOX
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/vox.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="E.svn",E!
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/e.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="FashionTV.svn",FASHION TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/fashion.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Ginx.svn",GINX ESPORTS TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/ginx.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",ARENAESPORT
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/arenaesport.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Mediaset.it",MEDIASET ITALIA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mediaset.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ChannelOneRussia.svn",CHANNEL ONE RUSSIA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/russia1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="POPOTO.svn",POP OTO
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/oto.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Boomerang.svn",BOOMERANG
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/boomerang.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CartoonNetwork.svn",CARTOON NETWORK
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cartoon.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BabyTV.svn",BABY TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/babytv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SuperRTL.svn",SUPER RTL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/superrtl.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MINIMAX.svn",MINIMAX
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/minimax.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="NickJr.svn",NICK JUNIOR
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/nickjunior.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="JimJam.svn",JIM JAM
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/jimjam.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Nickelodeon.svn",NICKELODEON
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/nickelodeon.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="DuckTV.hr",DUCK TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/ducktv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,MTV Channel
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,MTV Channel[HD] 720p
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, tvg-id="MTV.svn",MTV ADRIA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mtv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTVLive.svn",MTV LIVEHD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mtvlive.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,Redbull TV[HD] 720p
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,Redbull TV[HD] 1080p
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0, tvg-id="TVCarli.svn",ČARLI TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/carli.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="GolicaTV.svn",TV GOLICA
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/golica.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TVVeseljak.svn",TV VESELJAK
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/veseljak.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TVPetelin.svn",TV PETELIN
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/petelin.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="DMSat.svn",DM SAT
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/dmsat.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CMC.svn",CMC
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/cmc.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTVRocks.svn",MTV ROCKS
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mtvrocks.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTVHits.svn",MTV HITS
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mtvhits.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTVDance.svn",MTV DANCE
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mtvdance.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VH1.svn",VH 1
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/vh1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VH1Classic.svn",VH 1 CLASSIC
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/vh1cla.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Mezzo.svn",MEZZO
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mezzo.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",MEZZO LIVEHD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/mezzolivehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="PlayboyTV.svn",PLAYBOY TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/playboytv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HustlerHD.svn",HUSTLER HD
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hustlerhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",HUSTLER TV
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/hustler.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",REALITY KINGS
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/realitykings.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="DorcelTV.svn",DORCEL
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/dorcel.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Plus tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Motor TV
+http://45.58.62.92:8084
+#EXTINF:-1,Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,TV Partizan HD
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:0, tvg-id="", motogp test nazaj
+https://raw.githubusercontent.com/programskashema/programskashema.github.io/M3U8M3U8A1A1M3U8M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD34M3U8M3U8A1A1M3U812264XFDGHJSSD3412264XFDGHJSSD34/motogptest.m3u8|User-Agent="AppleCoreMedia
+
+

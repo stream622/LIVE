@@ -802,7 +802,7 @@
 
 
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="eng",NAME="HD_audio_4Mb",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://80.95.238.5/_____________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__f/1/HD_audio_4Mb/manifest.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="slv",NAME="HD_audio_4Mb",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://80.95.238.5/_____________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__f/1/HD_audio_4Mb/manifest.m3u8"
 
 
 
