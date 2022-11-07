@@ -803,7 +803,7 @@
 
 
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="eng",NAME="HD_audio_4Mb",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://109.239.182.10/_____________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_MTVLIVEHD_ott/__op/dash-default/__f/0/HD_audio_4Mb/manifest.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="eng",NAME="HD_audio_4Mb",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://109.239.182.10/_____________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_MTVLIVEHD_ott/__op/dash-default/__f/1/HD_audio_4Mb/manifest.m3u8"
 
 
 
@@ -1204,8 +1204,8 @@
 
 
 #EXT-X-STREAM-INF:BANDWIDTH=1328000,RESOLUTION=800x450,CODECS="avc1.4D0020,mp4a.40.2",AUDIO="audio1",FRAME-RATE=25
-https://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_MTVLIVEHD_ott/__op/dash-default/__f/0/HD_video_1_2Mb/manifest.m3u8
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=150000,RESOLUTION=800x450,CODECS="avc1.4D0020",URI="https://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_MTVLIVEHD_ott/__op/dash-default/__f/0/HD_video_1_2Mb/manifest_iframe.m3u8"
+https://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_MTVLIVEHD_ott/__op/dash-default/__f/1/HD_video_1_2Mb/manifest.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=150000,RESOLUTION=800x450,CODECS="avc1.4D0020",URI="https://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_MTVLIVEHD_ott/__op/dash-default/__f/1/HD_video_1_2Mb/manifest_iframe.m3u8"
 
 
 
