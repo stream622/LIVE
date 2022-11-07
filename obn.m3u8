@@ -802,7 +802,7 @@
 
 
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="eng",NAME="SD_audio_2M",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://109.239.182.10/_____________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/0/SD_audio_2M/manifest.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="eng",NAME="SD_audio_2M",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://109.239.182.10/_____________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/1/SD_audio_2M/manifest.m3u8"
 
 
 
@@ -1203,8 +1203,8 @@
 
 
 #EXT-X-STREAM-INF:BANDWIDTH=1328000,RESOLUTION=640x360,CODECS="avc1.4D001E,mp4a.40.2",AUDIO="audio1",FRAME-RATE=25
-http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/0/SD_video_1_2M/manifest.m3u8
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=150000,RESOLUTION=640x360,CODECS="avc1.4D001E",URI="http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/0/SD_video_1_2M/manifest_iframe.m3u8"
+http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/1/SD_video_1_2M/manifest.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=150000,RESOLUTION=640x360,CODECS="avc1.4D001E",URI="http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/1/SD_video_1_2M/manifest_iframe.m3u8"
 
 
 
@@ -1604,8 +1604,8 @@ http://109.239.182.10/__________________________________________________________
 
 
 #EXT-X-STREAM-INF:BANDWIDTH=2128000,RESOLUTION=800x450,CODECS="avc1.64001E,mp4a.40.2",AUDIO="audio1",FRAME-RATE=25
-http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/0/SD_video_2M/manifest.m3u8
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=250000,RESOLUTION=800x450,CODECS="avc1.64001E",URI="http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/0/SD_video_2M/manifest_iframe.m3u8"
+http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/1/SD_video_2M/manifest.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=250000,RESOLUTION=800x450,CODECS="avc1.64001E",URI="http://109.239.182.10/___________________________________________________________________________________________________________________________________________________________/__cl/cg:prod/__c/A1_SI_OBNBOSNA_ott/__op/dash-default/__f/1/SD_video_2M/manifest_iframe.m3u8"
 
 
 
